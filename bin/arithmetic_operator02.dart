@@ -6,6 +6,12 @@ Create a variable called 'answer'.
 Find the sum of a and b than assign to 'answer'
 
 */
-void main() {
+void main() {int a;
+int b;
+int answer;
+a = 3;
+b = 4;
+answer = a + b;
+print(answer);
   //write your code here
 }

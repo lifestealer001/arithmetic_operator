@@ -7,6 +7,14 @@ Create a variable called 'answer'.
 Find the expression value assign to 'answer'. ab/c
 
 */
-void main() {
+void main() {int a;
+int b;
+int c;
+double answer;
+a = 3;
+b = 4;
+c = 2;
+answer = a * b / c;
+print(answer);
   //write your code here
 }

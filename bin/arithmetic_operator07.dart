@@ -7,6 +7,15 @@ Create a variable called 'answer'.
 Find the expression value assign to 'answer'.  a - b + c
 
 */
-void main() {
+void main() {int a;
+int b;
+int c;
+int answer;
+a = 12;
+b = 4;
+c = 1;
+answer = a - b + c;
+print(answer);
   //write your code here
 }
+

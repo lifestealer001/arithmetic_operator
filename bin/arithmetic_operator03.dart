@@ -6,6 +6,13 @@ Create a variable called 'answer'.
 find the difference of a and b then assign to "answer"
 
 */
-void main() {
+void main() {int a;
+int b;
+int answer;
+a = 6;
+b = 2;
+answer = a - b;
+print(answer);
   //write your code here
 }
+

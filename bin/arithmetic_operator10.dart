@@ -8,6 +8,16 @@ Create a variable called 'answer'.
 Find the expression value assign to 'answer'.  a*b / c+d .
 
 */
-void main() {
+void main() {int a;
+int b;
+int c;
+int d;
+double answer;
+a = 8;
+b = 5;
+c = 2;
+d = 6;
+answer = a * b / c + d;
+print(answer);
   //write your code here
 }

@@ -6,6 +6,12 @@ Create a variable called "answer".
 Find the division of a and b then assign to "answer".
 
 */
-void main() {
+void main() {int a;
+int b;
+double answer;
+a = 72;
+b = 9;
+answer = a / b;
+print(answer);
   //write your code here
 }
